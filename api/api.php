@@ -26,6 +26,40 @@ function get_app_by_id($id)
   return $app_info;
 }
 
+// Funtion to return a player name and number.
+function get_player_info($id)
+{
+  $player_info = array();
+
+// $id is the playerID in the players table. switch the the right $id and array will be popluated with that players info.
+// Info returned
+// Player Name
+// Player Number
+// Games Played
+// Career Average
+// Career Hits
+  
+   switch ($id){
+    case 1:
+      $player_info = array("app_name" => "Web Demo", "app_price" => "Free", "app_version" => "2.0");
+      break;
+    case 2:
+      $app_info = array("app_name" => "Audio Countdown", "app_price" => "Free", "app_version" => "1.1");
+      break;
+    case 3:
+      $app_info = array("app_name" => "The Tab Key", "app_price" => "Free", "app_version" => "1.2");
+      break;
+    case 4:
+      $app_info = array("app_name" => "Music Sleep Timer", "app_price" => "Free", "app_version" => "1.9");
+      break;
+  }
+
+  return $app_info;
+}
+
+
+
+
 function get_app_list()
 {
   //normally this info would be pulled from a database.
