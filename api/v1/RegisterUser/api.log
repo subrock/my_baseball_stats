@@ -1,0 +1,137 @@
+
+15:06:28 02:07:18 Starting registration script.
+15:06:28 02:07:18 POST Request has been made.
+15:06:28 02:07:18 Signiture keys match.
+15:06:28 02:07:18 User registration faild. User already exists. Writting failure XML.
+15:06:28 02:07:18 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Failure</result><id></id><name>My Reading Log</name><reason>User already exists.</reason><email></email></registration>
+
+
+15:06:29 02:28:10 Starting registration script.
+15:06:29 02:28:10 POST Request has been made.
+15:06:29 02:28:10 Signiture keys match.
+15:06:29 02:28:10 User registration faild. User already exists. Writting failure XML.
+15:06:29 02:28:10 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Failure</result><id></id><name>My Reading Log</name><reason>User already exists.</reason><email></email></registration>
+
+
+15:06:30 10:54:01 Starting registration script.
+15:06:30 10:54:01 POST Request has been made.
+15:06:30 10:54:01 Signiture keys match.
+15:06:30 10:54:01 User does not exist. Creating a new account.
+15:06:30 10:54:01 User registration sucessful. Writting success XML.
+15:06:30 10:54:01 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>1010</id><name>Jerome Log</name><email>subrock@gmail.com</email></registration>
+
+
+15:07:01 08:31:20 Starting registration script.
+15:07:01 08:31:20 POST Request has been made.
+15:07:01 08:31:20 Signiture keys match.
+15:07:01 08:31:20 User does not exist. Creating a new account.
+15:07:01 08:31:20 User registration sucessful. Writting success XML.
+15:07:01 08:31:20 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>1011</id><name>My Reading Logq</name><email></email></registration>
+
+
+15:07:02 11:00:40 Starting registration script.
+15:07:02 11:00:40 POST Request has been made.
+15:07:02 11:00:40 Signiture keys match.
+15:07:02 11:00:40 User does not exist. Creating a new account.
+15:07:02 11:00:40 User registration sucessful. Writting success XML.
+15:07:02 11:00:40 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></registration>
+
+
+15:07:07 06:26:50 Starting registration script.
+15:07:07 06:26:50 POST Request has been made.
+15:07:07 06:26:50 Signiture keys match.
+15:07:07 06:26:50 Missing post variables.
+15:07:07 06:27:15 Starting registration script.
+15:07:07 06:27:15 POST Request has been made.
+15:07:07 06:27:15 Signiture keys match.
+15:07:07 06:27:15 Missing post variables.
+15:07:07 06:27:45 Starting registration script.
+15:07:07 06:27:45 POST Request has been made.
+15:07:07 06:27:45 Signiture keys match.
+15:07:07 06:27:45 User does not exist. Creating a new account.
+15:07:07 06:27:45 User registration sucessful. Writting success XML.
+15:07:07 06:27:45 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>28</id><name>karls</name><email>subrock@gmail.com</email></registration>
+
+
+15:07:07 06:28:51 Starting registration script.
+15:07:07 06:28:51 POST Request has been made.
+15:07:07 06:28:51 Signiture keys match.
+15:07:07 06:28:51 User does not exist. Creating a new account.
+15:07:07 06:28:51 User registration sucessful. Writting success XML.
+15:07:07 06:28:51 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>0</id><name>karls</name><email>subrock@gmail.com</email></registration>
+
+
+15:07:07 06:30:22 Starting registration script.
+15:07:07 06:30:22 POST Request has been made.
+15:07:07 06:30:22 Signiture keys match.
+15:07:07 06:30:22 User does not exist. Creating a new account.
+15:07:07 06:30:23 User registration sucessful. Writting success XML.
+15:07:07 06:30:23 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>2</id><name>karls</name><email>subrock@gmail.com</email></registration>
+
+
+15:07:07 06:31:29 Starting registration script.
+15:07:07 06:31:29 POST Request has been made.
+15:07:07 06:31:29 Signiture keys match.
+15:07:07 06:31:29 User registration failed. User already exists. Writting failure XML.
+15:07:07 06:31:29 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Failure</result><id></id><name>karls</name><reason>User already exists.</reason><email></email></registration>
+
+
+15:07:07 06:31:52 Starting registration script.
+15:07:07 06:31:52 POST Request has been made.
+15:07:07 06:31:52 Signiture keys match.
+15:07:07 06:31:52 User does not exist. Creating a new account.
+15:07:07 06:31:52 User registration sucessful. Writting success XML.
+15:07:07 06:31:52 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>1</id><name>karls</name><email>subrock@gmail.com</email></registration>
+
+
+15:07:07 06:32:51 Starting registration script.
+15:07:07 06:32:51 POST Request has been made.
+15:07:07 06:32:51 Signiture keys match.
+15:07:07 06:32:51 User registration failed. User already exists. Writting failure XML.
+15:07:07 06:32:51 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Failure</result><id></id><name>karls</name><reason>User already exists.</reason></registration>
+
+
+15:07:07 06:33:09 Starting registration script.
+15:07:07 06:33:09 POST Request has been made.
+15:07:07 06:33:09 Signiture keys match.
+15:07:07 06:33:09 User registration failed. User already exists. Writting failure XML.
+15:07:07 06:33:09 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Failure</result><name>karls</name><reason>User already exists.</reason></registration>
+
+
+15:07:07 06:33:19 Starting registration script.
+15:07:07 06:33:19 POST Request has been made.
+15:07:07 06:33:19 Signiture keys match.
+15:07:07 06:33:19 User does not exist. Creating a new account.
+15:07:07 06:33:19 User registration sucessful. Writting success XML.
+15:07:07 06:33:19 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>1</id><name>karls</name><number>99</number><email>subrock@gmail.com</email></registration>
+
+
+15:07:07 06:34:09 Starting registration script.
+15:07:07 06:34:09 POST Request has been made.
+15:07:07 06:34:09 Signiture keys match.
+15:07:07 06:34:09 User registration failed. User already exists. Writting failure XML.
+15:07:07 06:34:09 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Failure</result><name>karls</name><reason>User already exists.</reason></registration>
+
+
+15:07:07 06:34:21 Starting registration script.
+15:07:07 06:34:21 POST Request has been made.
+15:07:07 06:34:21 Signiture keys match.
+15:07:07 06:34:21 User does not exist. Creating a new account.
+15:07:07 06:34:21 User registration sucessful. Writting success XML.
+15:07:07 06:34:21 End RegisterUser.
+<?xml version='1.0' standalone='yes'?><registration><result>Sucess</result><id>1</id><name>karls</name><number>99</number><email>subrock@gmail.com</email></registration>
+
