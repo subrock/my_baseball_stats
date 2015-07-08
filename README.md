@@ -4,5 +4,5 @@ This is an application to allow little league coaches to keep track of thier pla
 
 TODO:
 
-* Create DATABASE init script.
+* Create database migration script.
 
