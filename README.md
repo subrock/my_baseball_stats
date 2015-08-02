@@ -5,4 +5,6 @@ This is an application to allow little league coaches to keep track of thier pla
 TODO:
 
 * Create database migration script.
+* Rework android data insert dialog
+* Add ROKU app to GIT.
 
